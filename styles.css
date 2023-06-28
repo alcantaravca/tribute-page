@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Open+Sans:wght@500&display=swap');
+html {
+  font-size: 10px;
+}
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  text-align: center;
+  font-size: 1.5rem;
+  background-color: #ccc;
+  margin: 8px;
+}
+#main {
+  padding: 15px;
+  background-color: #eee;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.23);
+}
+#title {
+  font-size: 4em;
+  font-family: Merriweather, "Times New Roman", serif;
+  font-weight: 900;
+  margin-bottom: -2px;
+}
+p {
+  font-size: 1.2em;
+}
+#img-div {
+  background: white;
+  border-radius: 14px;
+  padding: 15px 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.159);
+  margin: 0;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+#tribute-link {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: #7463ff;
+}
+a:hover {
+  text-decoration: underline;
+}
+#headline {
+  margin: 40px;
+}
+ul {
+  margin: auto auto;
+  text-align: justify;
+  max-width: 500px;
+  line-height: 1.5;
+}
+li {
+  margin-bottom: 20px;
+}
+#footer{
+  margin: 30px 0 20px 0;
+}
