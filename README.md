@@ -1,4 +1,4 @@
-<h1 align="center"> Vaccine Form </h1>
+<h1 align="center"> Tribute Page </h1>
 
 <h3 align="center">
     Find out who he was and get to know a little more about the history of one of the most important people of the Brazilian past.
